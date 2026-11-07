@@ -503,7 +503,7 @@ def update_readme(path, meta, svg_path):
     block = (
         f'<a href="{meta["url"]}"><img src="{svg_path}" width="100%" alt="{e(alt)}"></a>\n'
         f'<p align="center"><sub>fold of the day · <a href="{meta["url"]}"><b>{meta["id"]}</b> · {e(meta["name"])}</a>'
-        f' · <i>{e(meta["organism"])}</i> · {e(meta["method"])}{res} · picked at random from the PDB every day</sub></p>'
+        f' · <i>{e(meta["organism"])}</i> · {e(meta["method"])}{res}</sub></p>'
     )
     text = path.read_text(encoding="utf-8")
     new, n = re.subn(r"(<!-- FOLD:START -->).*?(<!-- FOLD:END -->)",

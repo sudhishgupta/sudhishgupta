@@ -27,7 +27,7 @@ import biotite.structure.io.pdbx as pdbx
 # ---- profile text -----------------------------------------------------------
 NAME = "Sudhish"
 SUBTITLE = "Undergrad @ IITH · Comp Bio"
-TAGLINE = "ATCG → AUG → fold"
+TAGLINE = ""  # bottom-left terminal line, e.g. "ATCG → AUG → fold"; empty hides it
 
 # ---- canvas -----------------------------------------------------------------
 W, H = 1200, 380
@@ -452,6 +452,8 @@ def render(meta, frags, n_res, date):
     room = 64 - len(head) - len(tail)
     name = meta["name"] if len(meta["name"]) <= room else meta["name"][:room - 1].rstrip() + "…"
     caption = head + name + tail
+    tagline = (f'<text x="58" y="340" font-size="15" fill="#4ade80">&gt; <tspan fill="#c9d1d9">{esc(TAGLINE)}</tspan>'
+               f'<tspan class="blink" fill="#4ade80"> ▋</tspan></text>') if TAGLINE else ""
 
     return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" role="img" aria-labelledby="t d">
 <title id="t">{esc(NAME)}: DNA to protein</title>
@@ -489,7 +491,7 @@ def render(meta, frags, n_res, date):
 </g>
 <text x="{W - 40}" y="34" font-size="12" fill="#6e7681" text-anchor="end">fold of the day · {date.isoformat()}</text>
 {typed(caption, BOX[0], 340, GROW, fill="#c9d1d9")}
-<text x="58" y="340" font-size="15" fill="#4ade80">&gt; <tspan fill="#c9d1d9">{esc(TAGLINE)}</tspan><tspan class="blink" fill="#4ade80"> ▋</tspan></text>
+{tagline}
 </g>
 </svg>
 '''

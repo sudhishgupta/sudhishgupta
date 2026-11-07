@@ -26,7 +26,7 @@ import biotite.structure.io.pdbx as pdbx
 
 # ---- profile text -----------------------------------------------------------
 NAME = "Sudhish"
-SUBTITLE = "Biotech @ IITH · comp bio · AI for molecules"
+SUBTITLE = "Undergrad @ IITH · Comp Bio"
 TAGLINE = "ATCG → AUG → fold"
 
 # ---- canvas -----------------------------------------------------------------

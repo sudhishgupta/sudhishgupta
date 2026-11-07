@@ -1,0 +1,13 @@
+{
+  "id": "4IPF",
+  "name": "E3 ubiquitin-protein ligase Mdm2",
+  "organism": "Xenopus laevis",
+  "method": "X-ray",
+  "resolution": 1.7,
+  "title": "The 1.7A crystal structure of humanized Xenopus MDM2 with RO5045337",
+  "url": "https://www.rcsb.org/structure/4IPF",
+  "residues": 85,
+  "date": "2026-11-07",
+  "helix": 36,
+  "strand": 5
+}

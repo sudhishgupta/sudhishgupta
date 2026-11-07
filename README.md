@@ -1,0 +1,23 @@
+<!-- FOLD:START -->
+<a href="https://www.rcsb.org/structure/4IPF"><img src="assets/hero.svg" width="100%" alt="DNA helix translating into today&#x27;s protein: PDB 4IPF, E3 ubiquitin-protein ligase Mdm2"></a>
+<p align="center"><sub>fold of the day · <a href="https://www.rcsb.org/structure/4IPF"><b>4IPF</b> · E3 ubiquitin-protein ligase Mdm2</a> · <i>Xenopus laevis</i> · X-ray 1.7 Å · picked at random from the PDB every day</sub></p>
+<!-- FOLD:END -->
+
+### `$ whoami`
+
+```text
+>sudhishgupta | Homo sapiens | BTech Biotechnology @ IIT Hyderabad
+computational biology · protein design · DNA mechanics · ML for molecules
+```
+
+### Selected work
+
+| Project | What it does |
+|---|---|
+| [**PrionForge.ai**](https://github.com/sudhishgupta/PrionForge.ai) | AI-powered generation of novel prion-like proteins with precise subcellular targeting |
+| [**FUN-FoldUNet**](https://github.com/sudhishgupta/FUN-FoldUNet) | Deep-learning framework for unconditional generation of protein and peptide backbones |
+| [**SDNA**](https://github.com/sudhishgupta/SDNA) | Web-based interface for drawing custom DNA constructs |
+| [**CG-DNA-PARAM**](https://github.com/sudhishgupta/CG-DNA-PARAM) | Helix parameters from coarse-grained DNA trajectories |
+| [**TiGeRN**](https://github.com/sudhishgupta/TiGeRN) | Detecting teams of mutually repressing genes in regulatory networks |
+
+<sub>The banner above redraws itself every day: a GitHub Action picks a random X-ray structure from the PDB and flattens it into an animated cartoon. Source: [`scripts/protein_hero.py`](scripts/protein_hero.py).</sub>

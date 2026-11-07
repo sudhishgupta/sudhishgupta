@@ -14,10 +14,10 @@ computational biology · protein design · DNA mechanics · ML for molecules
 
 | Project | What it does |
 |---|---|
-| [**PrionForge.ai**](https://github.com/sudhishgupta/PrionForge.ai) | AI-powered generation of novel prion-like proteins with precise subcellular targeting |
-| [**FUN-FoldUNet**](https://github.com/sudhishgupta/FUN-FoldUNet) | Deep-learning framework for unconditional generation of protein and peptide backbones |
 | [**SDNA**](https://github.com/sudhishgupta/SDNA) | Web-based interface for drawing custom DNA constructs |
+| [**FUN-FoldUNet**](https://github.com/sudhishgupta/FUN-FoldUNet) | Deep-learning framework for unconditional generation of protein and peptide backbones |
+| [**PrionForge.ai**](https://github.com/sudhishgupta/PrionForge.ai) | PLM-powered generation of novel prion-like proteins with precise subcellular targeting |
 | [**CG-DNA-PARAM**](https://github.com/sudhishgupta/CG-DNA-PARAM) | Helix parameters from coarse-grained DNA trajectories |
-| [**TiGeRN**](https://github.com/sudhishgupta/TiGeRN) | Detecting teams of mutually repressing genes in regulatory networks |
+| [**DeepArt**](https://github.com/sudhishgupta/DeepArt) | Neural artistic style transfer |
 
 <sub>The banner above redraws itself every day: a GitHub Action picks a random X-ray structure from the PDB and flattens it into an animated cartoon. Source: [`scripts/protein_hero.py`](scripts/protein_hero.py).</sub>

@@ -1,6 +1,6 @@
 <!-- FOLD:START -->
-<a href="https://www.rcsb.org/structure/4IPF"><img src="assets/hero.svg" width="100%" alt="DNA helix translating into today&#x27;s protein: PDB 4IPF, E3 ubiquitin-protein ligase Mdm2"></a>
-<p align="center"><sub>fold of the day · <a href="https://www.rcsb.org/structure/4IPF"><b>4IPF</b> · E3 ubiquitin-protein ligase Mdm2</a> · <i>Xenopus laevis</i> · X-ray 1.7 Å</sub></p>
+<a href="https://www.rcsb.org/structure/3DMU"><img src="assets/hero.svg" width="100%" alt="DNA helix translating into today&#x27;s protein: PDB 3DMU, Thermonuclease"></a>
+<p align="center"><sub>fold of the day · <a href="https://www.rcsb.org/structure/3DMU"><b>3DMU</b> · Thermonuclease</a> · <i>Staphylococcus aureus</i> · X-ray 1.8 Å</sub></p>
 <!-- FOLD:END -->
 
 ### `$ whoami`

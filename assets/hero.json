@@ -1,13 +1,13 @@
 {
-  "id": "4IPF",
-  "name": "E3 ubiquitin-protein ligase Mdm2",
-  "organism": "Xenopus laevis",
+  "id": "3DMU",
+  "name": "Thermonuclease",
+  "organism": "Staphylococcus aureus",
   "method": "X-ray",
-  "resolution": 1.7,
-  "title": "The 1.7A crystal structure of humanized Xenopus MDM2 with RO5045337",
-  "url": "https://www.rcsb.org/structure/4IPF",
-  "residues": 85,
-  "date": "2026-11-07",
-  "helix": 36,
-  "strand": 5
+  "resolution": 1.8,
+  "title": "Crystal structure of Staphylococcal nuclease variant PHS T62K at cryogenic temperature",
+  "url": "https://www.rcsb.org/structure/3DMU",
+  "residues": 126,
+  "date": "2026-11-08",
+  "helix": 38,
+  "strand": 25
 }

@@ -1,6 +1,6 @@
 <!-- FOLD:START -->
-<a href="https://www.rcsb.org/structure/3DMU"><img src="assets/hero.svg" width="100%" alt="DNA helix translating into today&#x27;s protein: PDB 3DMU, Thermonuclease"></a>
-<p align="center"><sub>fold of the day · <a href="https://www.rcsb.org/structure/3DMU"><b>3DMU</b> · Thermonuclease</a> · <i>Staphylococcus aureus</i> · X-ray 1.8 Å</sub></p>
+<a href="https://www.rcsb.org/structure/5CXR"><img src="assets/hero.svg" width="100%" alt="DNA helix translating into today&#x27;s protein: PDB 5CXR, Endonuclease"></a>
+<p align="center"><sub>fold of the day · <a href="https://www.rcsb.org/structure/5CXR"><b>5CXR</b> · Endonuclease</a> · <i>Influenza A virus</i> · X-ray 2.0 Å</sub></p>
 <!-- FOLD:END -->
 
 ### `$ whoami`

@@ -1,13 +1,13 @@
 {
-  "id": "5CXR",
-  "name": "Endonuclease",
-  "organism": "Influenza A virus",
+  "id": "7EDC",
+  "name": "tRNA (guanosine(18)-2'-O)-methyltransferase",
+  "organism": "Escherichia coli",
   "method": "X-ray",
-  "resolution": 2.002,
-  "title": "Influenza endonuclease complexed with 4-bromopyrazole",
-  "url": "https://www.rcsb.org/structure/5CXR",
-  "residues": 201,
-  "date": "2026-11-09",
-  "helix": 92,
-  "strand": 26
+  "resolution": 1.946,
+  "title": "Crystal structure of mutant tRNA [Gm18] methyltransferase TrmH (E107G) in complex with S-adenosyl-L-methionine from Escherichia coli",
+  "url": "https://www.rcsb.org/structure/7EDC",
+  "residues": 236,
+  "date": "2026-11-10",
+  "helix": 100,
+  "strand": 41
 }

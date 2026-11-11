@@ -1,6 +1,6 @@
 <!-- FOLD:START -->
-<a href="https://www.rcsb.org/structure/7EDC"><img src="assets/hero.svg" width="100%" alt="DNA helix translating into today&#x27;s protein: PDB 7EDC, tRNA (guanosine(18)-2&#x27;-O)-methyltransferase"></a>
-<p align="center"><sub>fold of the day · <a href="https://www.rcsb.org/structure/7EDC"><b>7EDC</b> · tRNA (guanosine(18)-2&#x27;-O)-methyltransferase</a> · <i>Escherichia coli</i> · X-ray 1.9 Å</sub></p>
+<a href="https://www.rcsb.org/structure/6DGA"><img src="assets/hero.svg" width="100%" alt="DNA helix translating into today&#x27;s protein: PDB 6DGA, RpfR"></a>
+<p align="center"><sub>fold of the day · <a href="https://www.rcsb.org/structure/6DGA"><b>6DGA</b> · RpfR</a> · <i>Cronobacter turicensis (strain DSM 18703 / LMG 23827 / z3032)</i> · X-ray 1.2 Å</sub></p>
 <!-- FOLD:END -->
 
 ### `$ whoami`

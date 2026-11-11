@@ -1,13 +1,13 @@
 {
-  "id": "7EDC",
-  "name": "tRNA (guanosine(18)-2'-O)-methyltransferase",
-  "organism": "Escherichia coli",
+  "id": "6DGA",
+  "name": "RpfR",
+  "organism": "Cronobacter turicensis (strain DSM 18703 / LMG 23827 / z3032)",
   "method": "X-ray",
-  "resolution": 1.946,
-  "title": "Crystal structure of mutant tRNA [Gm18] methyltransferase TrmH (E107G) in complex with S-adenosyl-L-methionine from Escherichia coli",
-  "url": "https://www.rcsb.org/structure/7EDC",
-  "residues": 236,
-  "date": "2026-11-10",
-  "helix": 100,
-  "strand": 41
+  "resolution": 1.19,
+  "title": "Cronobacter turicensis RpfR quorum-sensing receptor RpfF interaction domain",
+  "url": "https://www.rcsb.org/structure/6DGA",
+  "residues": 95,
+  "date": "2026-11-11",
+  "helix": 8,
+  "strand": 35
 }

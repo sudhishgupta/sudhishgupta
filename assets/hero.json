@@ -1,13 +1,13 @@
 {
-  "id": "6DGA",
-  "name": "RpfR",
-  "organism": "Cronobacter turicensis (strain DSM 18703 / LMG 23827 / z3032)",
+  "id": "2RK4",
+  "name": "Protein DJ-1",
+  "organism": "Homo sapiens",
   "method": "X-ray",
-  "resolution": 1.19,
-  "title": "Cronobacter turicensis RpfR quorum-sensing receptor RpfF interaction domain",
-  "url": "https://www.rcsb.org/structure/6DGA",
-  "residues": 95,
-  "date": "2026-11-11",
-  "helix": 8,
-  "strand": 35
+  "resolution": 1.15,
+  "title": "Structure of M26I DJ-1",
+  "url": "https://www.rcsb.org/structure/2RK4",
+  "residues": 187,
+  "date": "2026-11-12",
+  "helix": 72,
+  "strand": 34
 }

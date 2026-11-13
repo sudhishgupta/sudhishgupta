@@ -1,13 +1,13 @@
 {
-  "id": "2RK4",
-  "name": "Protein DJ-1",
-  "organism": "Homo sapiens",
+  "id": "3ITD",
+  "name": "17beta-Hydroxysteroid dehydrogenase",
+  "organism": "Cochliobolus lunatus",
   "method": "X-ray",
-  "resolution": 1.15,
-  "title": "Structure of M26I DJ-1",
-  "url": "https://www.rcsb.org/structure/2RK4",
-  "residues": 187,
-  "date": "2026-11-12",
-  "helix": 72,
-  "strand": 34
+  "resolution": 1.89,
+  "title": "Crystal structure of an inactive 17beta-Hydroxysteroid dehydrogenase (Y167F mutated form) from fungus Cochliobolus lunatus",
+  "url": "https://www.rcsb.org/structure/3ITD",
+  "residues": 260,
+  "date": "2026-11-13",
+  "helix": 105,
+  "strand": 35
 }

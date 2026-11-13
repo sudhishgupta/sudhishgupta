@@ -1,6 +1,6 @@
 <!-- FOLD:START -->
-<a href="https://www.rcsb.org/structure/2RK4"><img src="assets/hero.svg" width="100%" alt="DNA helix translating into today&#x27;s protein: PDB 2RK4, Protein DJ-1"></a>
-<p align="center"><sub>fold of the day · <a href="https://www.rcsb.org/structure/2RK4"><b>2RK4</b> · Protein DJ-1</a> · <i>Homo sapiens</i> · X-ray 1.1 Å</sub></p>
+<a href="https://www.rcsb.org/structure/3ITD"><img src="assets/hero.svg" width="100%" alt="DNA helix translating into today&#x27;s protein: PDB 3ITD, 17beta-Hydroxysteroid dehydrogenase"></a>
+<p align="center"><sub>fold of the day · <a href="https://www.rcsb.org/structure/3ITD"><b>3ITD</b> · 17beta-Hydroxysteroid dehydrogenase</a> · <i>Cochliobolus lunatus</i> · X-ray 1.9 Å</sub></p>
 <!-- FOLD:END -->
 
 ### `$ whoami`

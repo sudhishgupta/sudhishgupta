@@ -1,13 +1,13 @@
 {
-  "id": "3ITD",
-  "name": "17beta-Hydroxysteroid dehydrogenase",
-  "organism": "Cochliobolus lunatus",
+  "id": "6TS0",
+  "name": "Ferritin light chain",
+  "organism": "Homo sapiens",
   "method": "X-ray",
-  "resolution": 1.89,
-  "title": "Crystal structure of an inactive 17beta-Hydroxysteroid dehydrogenase (Y167F mutated form) from fungus Cochliobolus lunatus",
-  "url": "https://www.rcsb.org/structure/3ITD",
-  "residues": 260,
-  "date": "2026-11-13",
-  "helix": 105,
-  "strand": 35
+  "resolution": 2.2,
+  "title": "Crystal structure of human L ferritin (HuLf) triple variant E60A-E61A-E64A Fe(III)-loaded for 30 minutes",
+  "url": "https://www.rcsb.org/structure/6TS0",
+  "residues": 171,
+  "date": "2026-11-14",
+  "helix": 125,
+  "strand": 6
 }

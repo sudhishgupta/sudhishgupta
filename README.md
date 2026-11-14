@@ -1,6 +1,6 @@
 <!-- FOLD:START -->
-<a href="https://www.rcsb.org/structure/3ITD"><img src="assets/hero.svg" width="100%" alt="DNA helix translating into today&#x27;s protein: PDB 3ITD, 17beta-Hydroxysteroid dehydrogenase"></a>
-<p align="center"><sub>fold of the day · <a href="https://www.rcsb.org/structure/3ITD"><b>3ITD</b> · 17beta-Hydroxysteroid dehydrogenase</a> · <i>Cochliobolus lunatus</i> · X-ray 1.9 Å</sub></p>
+<a href="https://www.rcsb.org/structure/6TS0"><img src="assets/hero.svg" width="100%" alt="DNA helix translating into today&#x27;s protein: PDB 6TS0, Ferritin light chain"></a>
+<p align="center"><sub>fold of the day · <a href="https://www.rcsb.org/structure/6TS0"><b>6TS0</b> · Ferritin light chain</a> · <i>Homo sapiens</i> · X-ray 2.2 Å</sub></p>
 <!-- FOLD:END -->
 
 ### `$ whoami`

@@ -1,6 +1,6 @@
 <!-- FOLD:START -->
-<a href="https://www.rcsb.org/structure/6TS0"><img src="assets/hero.svg" width="100%" alt="DNA helix translating into today&#x27;s protein: PDB 6TS0, Ferritin light chain"></a>
-<p align="center"><sub>fold of the day · <a href="https://www.rcsb.org/structure/6TS0"><b>6TS0</b> · Ferritin light chain</a> · <i>Homo sapiens</i> · X-ray 2.2 Å</sub></p>
+<a href="https://www.rcsb.org/structure/7AW2"><img src="assets/hero.svg" width="100%" alt="DNA helix translating into today&#x27;s protein: PDB 7AW2, Tyrosine-protein kinase Mer"></a>
+<p align="center"><sub>fold of the day · <a href="https://www.rcsb.org/structure/7AW2"><b>7AW2</b> · Tyrosine-protein kinase Mer</a> · <i>Homo sapiens</i> · X-ray 2.1 Å</sub></p>
 <!-- FOLD:END -->
 
 ### `$ whoami`

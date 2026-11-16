@@ -1,13 +1,13 @@
 {
-  "id": "7AW2",
-  "name": "Tyrosine-protein kinase Mer",
-  "organism": "Homo sapiens",
+  "id": "5CFT",
+  "name": "Aminoglycoside Nucleotidyltransferase (2\")-Ia",
+  "organism": "Pseudomonas aeruginosa",
   "method": "X-ray",
-  "resolution": 2.1,
-  "title": "MerTK kinase domain with type 1.5 inhibitor from a DNA-encoded library",
-  "url": "https://www.rcsb.org/structure/7AW2",
-  "residues": 270,
-  "date": "2026-11-15",
-  "helix": 105,
-  "strand": 30
+  "resolution": 1.5,
+  "title": "Crystal Structure of ANT(2\")-Ia in complex with AMPCPP and gentamicin C1",
+  "url": "https://www.rcsb.org/structure/5CFT",
+  "residues": 175,
+  "date": "2026-11-16",
+  "helix": 79,
+  "strand": 22
 }

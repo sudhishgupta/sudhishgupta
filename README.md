@@ -1,6 +1,6 @@
 <!-- FOLD:START -->
-<a href="https://www.rcsb.org/structure/7AW2"><img src="assets/hero.svg" width="100%" alt="DNA helix translating into today&#x27;s protein: PDB 7AW2, Tyrosine-protein kinase Mer"></a>
-<p align="center"><sub>fold of the day · <a href="https://www.rcsb.org/structure/7AW2"><b>7AW2</b> · Tyrosine-protein kinase Mer</a> · <i>Homo sapiens</i> · X-ray 2.1 Å</sub></p>
+<a href="https://www.rcsb.org/structure/5CFT"><img src="assets/hero.svg" width="100%" alt="DNA helix translating into today&#x27;s protein: PDB 5CFT, Aminoglycoside Nucleotidyltransferase (2&quot;)-Ia"></a>
+<p align="center"><sub>fold of the day · <a href="https://www.rcsb.org/structure/5CFT"><b>5CFT</b> · Aminoglycoside Nucleotidyltransferase (2&quot;)-Ia</a> · <i>Pseudomonas aeruginosa</i> · X-ray 1.5 Å</sub></p>
 <!-- FOLD:END -->
 
 ### `$ whoami`

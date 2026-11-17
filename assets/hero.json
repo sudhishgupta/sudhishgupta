@@ -1,13 +1,13 @@
 {
-  "id": "5CFT",
-  "name": "Aminoglycoside Nucleotidyltransferase (2\")-Ia",
-  "organism": "Pseudomonas aeruginosa",
+  "id": "7T47",
+  "name": "GTPase KRas",
+  "organism": "Homo sapiens",
   "method": "X-ray",
-  "resolution": 1.5,
-  "title": "Crystal Structure of ANT(2\")-Ia in complex with AMPCPP and gentamicin C1",
-  "url": "https://www.rcsb.org/structure/5CFT",
-  "residues": 175,
-  "date": "2026-11-16",
-  "helix": 79,
-  "strand": 22
+  "resolution": 1.27,
+  "title": "KRAS G12D (GppCp) with MRTX-1133",
+  "url": "https://www.rcsb.org/structure/7T47",
+  "residues": 169,
+  "date": "2026-11-17",
+  "helix": 64,
+  "strand": 43
 }

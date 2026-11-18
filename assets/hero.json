@@ -1,13 +1,13 @@
 {
-  "id": "7T47",
-  "name": "GTPase KRas",
+  "id": "2QQ5",
+  "name": "Dehydrogenase/reductase SDR family member 1",
   "organism": "Homo sapiens",
   "method": "X-ray",
-  "resolution": 1.27,
-  "title": "KRAS G12D (GppCp) with MRTX-1133",
-  "url": "https://www.rcsb.org/structure/7T47",
-  "residues": 169,
-  "date": "2026-11-17",
-  "helix": 64,
-  "strand": 43
+  "resolution": 1.8,
+  "title": "Crystal structure of human SDR family member 1",
+  "url": "https://www.rcsb.org/structure/2QQ5",
+  "residues": 238,
+  "date": "2026-11-18",
+  "helix": 107,
+  "strand": 27
 }

@@ -1,6 +1,6 @@
 <!-- FOLD:START -->
-<a href="https://www.rcsb.org/structure/2QQ5"><img src="assets/hero.svg" width="100%" alt="DNA helix translating into today&#x27;s protein: PDB 2QQ5, Dehydrogenase/reductase SDR family member 1"></a>
-<p align="center"><sub>fold of the day · <a href="https://www.rcsb.org/structure/2QQ5"><b>2QQ5</b> · Dehydrogenase/reductase SDR family member 1</a> · <i>Homo sapiens</i> · X-ray 1.8 Å</sub></p>
+<a href="https://www.rcsb.org/structure/4MNN"><img src="assets/hero.svg" width="100%" alt="DNA helix translating into today&#x27;s protein: PDB 4MNN, Glutaredoxin related protein"></a>
+<p align="center"><sub>fold of the day · <a href="https://www.rcsb.org/structure/4MNN"><b>4MNN</b> · Glutaredoxin related protein</a> · <i>Sulfolobus solfataricus</i> · X-ray 1.8 Å</sub></p>
 <!-- FOLD:END -->
 
 ### `$ whoami`

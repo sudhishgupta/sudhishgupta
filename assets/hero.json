@@ -1,13 +1,13 @@
 {
-  "id": "2QQ5",
-  "name": "Dehydrogenase/reductase SDR family member 1",
-  "organism": "Homo sapiens",
+  "id": "4MNN",
+  "name": "Glutaredoxin related protein",
+  "organism": "Sulfolobus solfataricus",
   "method": "X-ray",
   "resolution": 1.8,
-  "title": "Crystal structure of human SDR family member 1",
-  "url": "https://www.rcsb.org/structure/2QQ5",
-  "residues": 238,
-  "date": "2026-11-18",
-  "helix": 107,
-  "strand": 27
+  "title": "The crystal structure of Sso1120 from Sulfolobus solfataricus",
+  "url": "https://www.rcsb.org/structure/4MNN",
+  "residues": 165,
+  "date": "2026-11-19",
+  "helix": 53,
+  "strand": 22
 }

@@ -1,13 +1,13 @@
 {
-  "id": "4MNN",
-  "name": "Glutaredoxin related protein",
-  "organism": "Sulfolobus solfataricus",
+  "id": "3LLO",
+  "name": "Prestin",
+  "organism": "Rattus norvegicus",
   "method": "X-ray",
-  "resolution": 1.8,
-  "title": "The crystal structure of Sso1120 from Sulfolobus solfataricus",
-  "url": "https://www.rcsb.org/structure/4MNN",
-  "residues": 165,
-  "date": "2026-11-19",
-  "helix": 53,
+  "resolution": 1.57,
+  "title": "Crystal structure of the STAS domain of motor protein prestin (anion transporter SLC26A5)",
+  "url": "https://www.rcsb.org/structure/3LLO",
+  "residues": 132,
+  "date": "2026-11-20",
+  "helix": 46,
   "strand": 22
 }

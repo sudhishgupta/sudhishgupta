@@ -1,13 +1,13 @@
 {
-  "id": "3LLO",
-  "name": "Prestin",
-  "organism": "Rattus norvegicus",
+  "id": "4CFK",
+  "name": "BRD4 protein",
+  "organism": "HOMO SAPIENS",
   "method": "X-ray",
-  "resolution": 1.57,
-  "title": "Crystal structure of the STAS domain of motor protein prestin (anion transporter SLC26A5)",
-  "url": "https://www.rcsb.org/structure/3LLO",
-  "residues": 132,
-  "date": "2026-11-20",
-  "helix": 46,
-  "strand": 22
+  "resolution": 1.55,
+  "title": "N-TERMINAL BROMODOMAIN OF HUMAN BRD4 WITH LY294002",
+  "url": "https://www.rcsb.org/structure/4CFK",
+  "residues": 127,
+  "date": "2026-11-21",
+  "helix": 61,
+  "strand": 0
 }

@@ -1,6 +1,6 @@
 <!-- FOLD:START -->
-<a href="https://www.rcsb.org/structure/4CFK"><img src="assets/hero.svg" width="100%" alt="DNA helix translating into today&#x27;s protein: PDB 4CFK, BRD4 protein"></a>
-<p align="center"><sub>fold of the day · <a href="https://www.rcsb.org/structure/4CFK"><b>4CFK</b> · BRD4 protein</a> · <i>HOMO SAPIENS</i> · X-ray 1.6 Å</sub></p>
+<a href="https://www.rcsb.org/structure/3MRW"><img src="assets/hero.svg" width="100%" alt="DNA helix translating into today&#x27;s protein: PDB 3MRW, Ribosome inactivating protein"></a>
+<p align="center"><sub>fold of the day · <a href="https://www.rcsb.org/structure/3MRW"><b>3MRW</b> · Ribosome inactivating protein</a> · <i>Momordica balsamina</i> · X-ray 1.7 Å</sub></p>
 <!-- FOLD:END -->
 
 ### `$ whoami`

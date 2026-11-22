@@ -1,13 +1,13 @@
 {
-  "id": "4CFK",
-  "name": "BRD4 protein",
-  "organism": "HOMO SAPIENS",
+  "id": "3MRW",
+  "name": "Ribosome inactivating protein",
+  "organism": "Momordica balsamina",
   "method": "X-ray",
-  "resolution": 1.55,
-  "title": "N-TERMINAL BROMODOMAIN OF HUMAN BRD4 WITH LY294002",
-  "url": "https://www.rcsb.org/structure/4CFK",
-  "residues": 127,
-  "date": "2026-11-21",
-  "helix": 61,
-  "strand": 0
+  "resolution": 1.7,
+  "title": "Crystal Structure of type I ribosome inactivating protein from Momordica balsamina at 1.7 A resolution",
+  "url": "https://www.rcsb.org/structure/3MRW",
+  "residues": 246,
+  "date": "2026-11-22",
+  "helix": 89,
+  "strand": 36
 }

@@ -1,6 +1,6 @@
 <!-- FOLD:START -->
-<a href="https://www.rcsb.org/structure/3MRW"><img src="assets/hero.svg" width="100%" alt="DNA helix translating into today&#x27;s protein: PDB 3MRW, Ribosome inactivating protein"></a>
-<p align="center"><sub>fold of the day · <a href="https://www.rcsb.org/structure/3MRW"><b>3MRW</b> · Ribosome inactivating protein</a> · <i>Momordica balsamina</i> · X-ray 1.7 Å</sub></p>
+<a href="https://www.rcsb.org/structure/9M5G"><img src="assets/hero.svg" width="100%" alt="DNA helix translating into today&#x27;s protein: PDB 9M5G, AB hydrolase-1 domain-containing protein"></a>
+<p align="center"><sub>fold of the day · <a href="https://www.rcsb.org/structure/9M5G"><b>9M5G</b> · AB hydrolase-1 domain-containing protein</a> · <i>Monosporascus sp. GIB2</i> · X-ray 2.1 Å</sub></p>
 <!-- FOLD:END -->
 
 ### `$ whoami`

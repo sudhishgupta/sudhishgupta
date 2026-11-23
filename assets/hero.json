@@ -1,13 +1,13 @@
 {
-  "id": "3MRW",
-  "name": "Ribosome inactivating protein",
-  "organism": "Momordica balsamina",
+  "id": "9M5G",
+  "name": "AB hydrolase-1 domain-containing protein",
+  "organism": "Monosporascus sp. GIB2",
   "method": "X-ray",
-  "resolution": 1.7,
-  "title": "Crystal Structure of type I ribosome inactivating protein from Momordica balsamina at 1.7 A resolution",
-  "url": "https://www.rcsb.org/structure/3MRW",
-  "residues": 246,
-  "date": "2026-11-22",
-  "helix": 89,
-  "strand": 36
+  "resolution": 2.1,
+  "title": "Crystal structure of a thermostable zearalenone-degrading lactonase mutant - S102A with ligand zearalenone",
+  "url": "https://www.rcsb.org/structure/9M5G",
+  "residues": 267,
+  "date": "2026-11-23",
+  "helix": 91,
+  "strand": 32
 }

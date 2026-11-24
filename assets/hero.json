@@ -1,13 +1,13 @@
 {
-  "id": "9M5G",
-  "name": "AB hydrolase-1 domain-containing protein",
-  "organism": "Monosporascus sp. GIB2",
+  "id": "8AZZ",
+  "name": "GTPase KRas",
+  "organism": "Homo sapiens",
   "method": "X-ray",
-  "resolution": 2.1,
-  "title": "Crystal structure of a thermostable zearalenone-degrading lactonase mutant - S102A with ligand zearalenone",
-  "url": "https://www.rcsb.org/structure/9M5G",
-  "residues": 267,
-  "date": "2026-11-23",
-  "helix": 91,
-  "strand": 32
+  "resolution": 1.02,
+  "title": "KRAS-G12V in complex with BI-2865",
+  "url": "https://www.rcsb.org/structure/8AZZ",
+  "residues": 168,
+  "date": "2026-11-24",
+  "helix": 62,
+  "strand": 45
 }

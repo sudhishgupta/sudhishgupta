@@ -1,13 +1,13 @@
 {
-  "id": "8AZZ",
-  "name": "GTPase KRas",
+  "id": "3RS7",
+  "name": "GTPase HRas",
   "organism": "Homo sapiens",
   "method": "X-ray",
-  "resolution": 1.02,
-  "title": "KRAS-G12V in complex with BI-2865",
-  "url": "https://www.rcsb.org/structure/8AZZ",
-  "residues": 168,
-  "date": "2026-11-24",
-  "helix": 62,
-  "strand": 45
+  "resolution": 1.7,
+  "title": "H-Ras soaked in 50% isopropanol: 1 of 10 in MSCS set",
+  "url": "https://www.rcsb.org/structure/3RS7",
+  "residues": 163,
+  "date": "2026-11-25",
+  "helix": 52,
+  "strand": 55
 }

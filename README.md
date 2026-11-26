@@ -1,6 +1,6 @@
 <!-- FOLD:START -->
-<a href="https://www.rcsb.org/structure/3RS7"><img src="assets/hero.svg" width="100%" alt="DNA helix translating into today&#x27;s protein: PDB 3RS7, GTPase HRas"></a>
-<p align="center"><sub>fold of the day · <a href="https://www.rcsb.org/structure/3RS7"><b>3RS7</b> · GTPase HRas</a> · <i>Homo sapiens</i> · X-ray 1.7 Å</sub></p>
+<a href="https://www.rcsb.org/structure/5L7W"><img src="assets/hero.svg" width="100%" alt="DNA helix translating into today&#x27;s protein: PDB 5L7W, 17-beta-hydroxysteroid dehydrogenase 14"></a>
+<p align="center"><sub>fold of the day · <a href="https://www.rcsb.org/structure/5L7W"><b>5L7W</b> · 17-beta-hydroxysteroid dehydrogenase 14</a> · <i>Homo sapiens</i> · X-ray 1.8 Å</sub></p>
 <!-- FOLD:END -->
 
 ### `$ whoami`

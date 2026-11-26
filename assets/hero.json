@@ -1,13 +1,13 @@
 {
-  "id": "3RS7",
-  "name": "GTPase HRas",
+  "id": "5L7W",
+  "name": "17-beta-hydroxysteroid dehydrogenase 14",
   "organism": "Homo sapiens",
   "method": "X-ray",
-  "resolution": 1.7,
-  "title": "H-Ras soaked in 50% isopropanol: 1 of 10 in MSCS set",
-  "url": "https://www.rcsb.org/structure/3RS7",
-  "residues": 163,
-  "date": "2026-11-25",
-  "helix": 52,
-  "strand": 55
+  "resolution": 1.76,
+  "title": "17beta-hydroxysteroid dehydrogenase 14 variant T205 in complex with a non-steroidal inhibitor.",
+  "url": "https://www.rcsb.org/structure/5L7W",
+  "residues": 254,
+  "date": "2026-11-26",
+  "helix": 112,
+  "strand": 42
 }

@@ -1,13 +1,13 @@
 {
-  "id": "5L7W",
-  "name": "17-beta-hydroxysteroid dehydrogenase 14",
-  "organism": "Homo sapiens",
+  "id": "1OX3",
+  "name": "Fibritin",
+  "organism": "Enterobacteria phage T4",
   "method": "X-ray",
-  "resolution": 1.76,
-  "title": "17beta-hydroxysteroid dehydrogenase 14 variant T205 in complex with a non-steroidal inhibitor.",
-  "url": "https://www.rcsb.org/structure/5L7W",
-  "residues": 254,
-  "date": "2026-11-26",
-  "helix": 112,
-  "strand": 42
+  "resolution": 2.0,
+  "title": "crystal structure of mini-fibritin",
+  "url": "https://www.rcsb.org/structure/1OX3",
+  "residues": 108,
+  "date": "2026-11-27",
+  "helix": 37,
+  "strand": 13
 }

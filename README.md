@@ -1,6 +1,6 @@
 <!-- FOLD:START -->
-<a href="https://www.rcsb.org/structure/1OX3"><img src="assets/hero.svg" width="100%" alt="DNA helix translating into today&#x27;s protein: PDB 1OX3, Fibritin"></a>
-<p align="center"><sub>fold of the day · <a href="https://www.rcsb.org/structure/1OX3"><b>1OX3</b> · Fibritin</a> · <i>Enterobacteria phage T4</i> · X-ray 2.0 Å</sub></p>
+<a href="https://www.rcsb.org/structure/7IDG"><img src="assets/hero.svg" width="100%" alt="DNA helix translating into today&#x27;s protein: PDB 7IDG, Host translation inhibitor nsp1"></a>
+<p align="center"><sub>fold of the day · <a href="https://www.rcsb.org/structure/7IDG"><b>7IDG</b> · Host translation inhibitor nsp1</a> · <i>Severe acute respiratory syndrome coronavirus 2</i> · X-ray 1.6 Å</sub></p>
 <!-- FOLD:END -->
 
 ### `$ whoami`

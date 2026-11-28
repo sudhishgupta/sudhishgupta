@@ -1,13 +1,13 @@
 {
-  "id": "1OX3",
-  "name": "Fibritin",
-  "organism": "Enterobacteria phage T4",
+  "id": "7IDG",
+  "name": "Host translation inhibitor nsp1",
+  "organism": "Severe acute respiratory syndrome coronavirus 2",
   "method": "X-ray",
-  "resolution": 2.0,
-  "title": "crystal structure of mini-fibritin",
-  "url": "https://www.rcsb.org/structure/1OX3",
-  "residues": 108,
-  "date": "2026-11-27",
-  "helix": 37,
-  "strand": 13
+  "resolution": 1.61,
+  "title": "PanDDA analysis group deposition -- SARS-CoV-2 Nsp1 crystal D07 (dataset 1) from the KIT library screening campaign, data used for ground state calculation",
+  "url": "https://www.rcsb.org/structure/7IDG",
+  "residues": 113,
+  "date": "2026-11-28",
+  "helix": 14,
+  "strand": 40
 }
